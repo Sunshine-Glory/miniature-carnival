@@ -1,0 +1,6 @@
+1.Object Oriented
+2.Platform Independent
+3.Polymorphism
+4.Distributed
+5.Robust
+6.Secure
