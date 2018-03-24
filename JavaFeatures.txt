@@ -4,6 +4,7 @@
 4.Distributed
 5.Robust
 6.Secure
+7.Portable **
 
 -----> JAVA 8 FEATURES
  1.Lambda Expressions
